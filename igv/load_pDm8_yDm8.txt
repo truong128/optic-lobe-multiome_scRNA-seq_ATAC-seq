@@ -1,0 +1,11 @@
+new
+genome /home/truongcuny/igv/genomes/dm6/dm6.json
+load /media/truongcuny/Truong/0_Jennifer_scRNA-seq/igv/P24_pDm8.bedGraph
+load /media/truongcuny/Truong/0_Jennifer_scRNA-seq/igv/P24_yDm8.bedGraph
+load /media/truongcuny/Truong/0_Jennifer_scRNA-seq/igv/P48_pDm8.bedGraph
+load /media/truongcuny/Truong/0_Jennifer_scRNA-seq/igv/P48_yDm8.bedGraph
+load /media/truongcuny/Truong/0_Jennifer_scRNA-seq/igv/DARs_P24.bed
+load /media/truongcuny/Truong/0_Jennifer_scRNA-seq/igv/DARs_P48.bed
+load /media/truongcuny/Truong/0_Jennifer_scRNA-seq/igv/DEG_P24_line.bed
+load /media/truongcuny/Truong/0_Jennifer_scRNA-seq/igv/DEG_P48_line.bed
+goto chrX:5523927-5565183

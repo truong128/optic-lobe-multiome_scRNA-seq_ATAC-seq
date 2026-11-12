@@ -1,0 +1,17 @@
+stage,subtype,Freq
+Adult,double_negative,226
+P0,double_negative,382
+P24,double_negative,190
+P48,double_negative,195
+Adult,double_positive,13
+P0,double_positive,1
+P24,double_positive,85
+P48,double_positive,60
+Adult,pDm8,17
+P0,pDm8,23
+P24,pDm8,198
+P48,pDm8,163
+Adult,yDm8,281
+P0,yDm8,125
+P24,yDm8,353
+P48,yDm8,230

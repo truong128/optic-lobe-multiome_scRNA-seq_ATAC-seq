@@ -1,0 +1,30 @@
+# Sequence files and count objects stay local.
+data/
+ref/
+
+*.rds
+*.zip
+*.gz
+*.bam
+*.bai
+*.h5
+*.h5ad
+*.loom
+*.fastq
+*.fq
+
+# Working tables, not results.
+results/gene_alias_map.csv
+results/barcode_map.tsv
+results/01_metadata_columns.tsv
+results/*log.txt
+
+# Local working report.
+REPORT_pDm8_yDm8.md
+
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+.DS_Store

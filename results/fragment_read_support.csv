@@ -1,0 +1,4 @@
+locus,n_unique_fragments,n_read_support_gt1,frac_read_support_gt1,mean_read_support,max_read_support
+Vsx2,4572,3845,0.840988626421697,4.89195100612423,24
+DIP-gamma,7604,6073,0.798658600736454,4.4850078905839,27
+beat-IIIc,5566,4528,0.813510600071865,4.71379805964786,26
